@@ -49,7 +49,7 @@ Preflight misconfigurations
 
 📦 Installation
 
-git clone https://github.com/YOUR_USERNAME/Daark_CORS.git
+git clone https://github.com/DaarkPyramid/Daark_CORS.git
 
 cd Daark_CORS
 
